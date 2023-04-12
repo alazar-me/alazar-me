@@ -1,4 +1,4 @@
-![MasterHead](https://am3pap004files.storage.live.com/y4mEggsA7g22c2TD5QszcxgDDnMOt8ry8VwaS3mMJ_QCujEZifqBZPprIuHdw1lcl1MGTw_Iy8p_GnMRHy5M9aqKXd8_MRFQRfFjS6mUoYlz-o533nb1PzVRb5-2_6vxKb5L_RvFngfNLhE8s88Yd51S7lWwK6GT491Jvz9YEe6gAiiFnQ2DuzndDVGa09ZDwWuKgUGA3tziZ2eosZA-Lrha17c4cMev_MP82y4wk-6U8Q?encodeFailures=1&width=1361&height=733)
+![MasterHead](https://ddgimgs-f43e.kxcdn.com/2002372/oxiy6w_a097fd94f21b9322e533093f3050e42f4c896b17.jpg)
 <h1 align="center">Hi 👋, I'm Alazar</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
