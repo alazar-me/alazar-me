@@ -1,4 +1,4 @@
-![MasterHead](https://ddgimgs-f43e.kxcdn.com/2002372/oxiy6w_a097fd94f21b9322e533093f3050e42f4c896b17.jpg)
+![MasterHead](https://c1.wallpaperflare.com/preview/13/727/729/still-life-working-desk-work.jpg)
 <h1 align="center" >Hi 👋, I'm Alazar</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
