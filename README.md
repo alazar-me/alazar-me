@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Software Engineering**
 <img align= "right" alt= "codeit!" width="500" height = "250"  src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"> 
 
-- 💬 Ask me about **java, html, node, css, ...**
+- 💬 Ask me about **java, react, designing, css, and any other interesting tech staff ...**
 
 - 📫 How to reach me **almaxvsbeko@gmail.com**
 
