@@ -1,24 +1,74 @@
-![MasterHead](https://c1.wallpaperflare.com/preview/13/727/729/still-life-working-desk-work.jpg)
-<h1 align="center" >Hi 👋, I'm Alazar</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<img src="https://c1.wallpaperflare.com/preview/13/727/729/still-life-working-desk-work.jpg" width="100%" />
 
-- 🌱 I’m currently learning **Software Engineering**
-<img align= "right" alt= "codeit!" width="500" height = "250"  src="https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif"> 
+<h1 align="center">Hi 👋, I'm Alazar Meshesha</h1>
+<h3 align="center">Software Engineer • Full-Stack Developer • LLM Trainer • </h3>
 
-- 💬 Ask me about **java, react, designing, css, and any other interesting tech staff ...**
+---
 
-- 📫 How to reach me **almaxvsbeko@gmail.com**
+## 🚀 About Me
 
-- ⚡ **make it simple but significant**
+- 💻 Full-Stack Developer with experience in building scalable web applications
+- 🤖 LLM Trainer & AI Evaluation Specialist with hands on experience in RLHF, prompt engineering, and AI quality evaluation
+- 🌍 Native Amharic speaker experienced in multilingual NLP, localization, and AI data annotation
+- ⚡ Passionate about AI systems, backend architecture, and modern frontend development
+- 🎯 Focused on building production level applications and intelligent AI solutions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alazar-meshesha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/alazar-meshesha/" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Backend & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,docker,express,linux,git,mysql,postgres,typescript" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alazar-me&show_icons=true&locale=en&layout=compact" alt="alazar-me" /></p>
+###  Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,github,vscode" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alazar-me&show_icons=true&locale=en" alt="alazar-me" /></p>
+---
+
+## 🧠 AI & LLM Experience
+
+- LLM Training & Evaluation
+- Prompt Engineering
+- RLHF & Response Ranking
+- AI Data Annotation
+- Multilingual NLP
+- Model Quality Assurance
+- AI Response Evaluation
+- Hallucination & Edge Case Analysis
+
+---
+
+## 📌 Current Focus
+
+- Building full-stack applications with Next.js & TypeScript
+- AI evaluation and model alignment
+- Backend systems & API architecture
+- Dockerized deployments and scalable systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/alazar-meshesha/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:alazarmeshesha1921@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> “Make it simple, but significant.”
